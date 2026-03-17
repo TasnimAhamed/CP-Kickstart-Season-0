@@ -1,6 +1,7 @@
 # 🏆 CP Kickstart - Contest Notes
 
 Welcome! This repository tracks our progress through the CP Kickstart series. Each folder contains solution code and contest details.
+
 ---
 
 ## 📅 Contest Schedule
