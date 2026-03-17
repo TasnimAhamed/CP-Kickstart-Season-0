@@ -1,9 +1,15 @@
-# CP Kickstart
+# 🏆 CP Kickstart - Contest Notes
 
-## Basic - Practice Contest 1
-- Contest URL: https://vjudge.net/contest/790844
-- Password: kick-off
+Welcome! This repository tracks our progress through the CP Kickstart series. Each folder contains solution code and contest details.
 
-## STL - Practice Contest 2
-- Contest URL: https://vjudge.net/contest/794581
-- Password: RamadanMubarak
+---
+
+## 📅 Contest Schedule
+
+| Topic | Contest Link | Access Password |
+| :--- | :--- | :--- |
+| **Basic** | [Practice Contest 1](https://vjudge.net/contest/790844) | `kick-off` |
+| **STL** | [Practice Contest 2](https://vjudge.net/contest/794581) | `RamadanMubarak` |
+
+---
+*Happy Coding! 🧑‍💻*
