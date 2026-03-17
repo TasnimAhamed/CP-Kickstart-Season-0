@@ -1,6 +1,4 @@
-# CP Kickstart - Contest Notes
-
-Each contest folder contains a `Notes.txt` file with the contest link and password.
+# CP Kickstart
 
 ## Basic - Practice Contest 1
 - Contest URL: https://vjudge.net/contest/790844
