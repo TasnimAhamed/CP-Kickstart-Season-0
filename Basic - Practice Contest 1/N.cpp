@@ -12,8 +12,6 @@ void solve() {
 	else {
 		cout << "NO\n";
 	}
-	
-	return 0;
 }
 
 int main() {
