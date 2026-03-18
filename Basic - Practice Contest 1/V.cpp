@@ -3,10 +3,23 @@ using namespace std;
 using ll = long long;
 
 void solve() {
-    int n;
-    cin >> n;
+    int even = 0, odd = 0;
+    for (int i = 0; i < 3; i++) {
+        int x; cin >> x;
+        if (x & 1) {
+            ++odd;
+        }
+        else {
+            ++even;
+        }
+    }
 
-    cout << n / 10 << " " << n % 10 << "\n";
+    if (odd and even) {
+        cout << "YES\n";
+    }
+    else {
+        cout << "NO\n";
+    }
 }
 
 int main() {

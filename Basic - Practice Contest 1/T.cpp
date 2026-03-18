@@ -4,17 +4,11 @@ using ll = long long;
 
 void solve() {
     int x, y; cin >> x >> y;
-    if ((y - x) == 1){
+    if ((y - x) == 1 or (x + 1 - y) % 9 == 0 and (x + 1 -  y) / 9 >= 0){
         cout << "Yes\n";
     }
     else {
-        int rem = x - y;
-        if (rem % 9 == 8){
-            cout << "Yes\n";
-        }
-        else {
-            cout << "No\n";
-        }
+        cout << "No\n";
     }
 }
 
@@ -23,7 +17,7 @@ int main() {
     cin.tie(nullptr);
 
     int t = 1;
-    // cin >> t;
+    cin >> t;
     while (t--) {
         solve();
     }
