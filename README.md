@@ -8,12 +8,15 @@ Welcome! This repository tracks our progress through the CP Kickstart series. Ea
 
 | Topic | Contest Link | Access Password |
 | :--- | :--- | :--- |
-| **Basic** | [Practice Contest 1](https://vjudge.net/contest/790844) | `kick-off` |
-| **STL** | [Practice Contest 2](https://vjudge.net/contest/794581) | `RamadanMubarak` |
-| **Online Contest 1** | [Online Contest 1](https://vjudge.net/contest/801088) | `noai` |
-| **Bitwise and Bitmasking** | [Practice Contest 3](https://vjudge.net/contest/811312) | `tatacgpa` |
+| **Basic** | [Practice Contest 1](https://vjudge.net/contest/790844) | `Nice Try! 😂` |
+| **STL** | [Practice Contest 2](https://vjudge.net/contest/794581) | `Top Secret 🤫` |
+| **Online Contest 1** | [Online Contest 1](https://vjudge.net/contest/801088) | `Not Today! 🛑` |
+| **Bitwise and Bitmasking** | [Practice Contest 3](https://vjudge.net/contest/811312) | `Ask nicely 🙏` |
 
 ---
 
 ### 🚀 [HappyKoding](https://www.youtube.com/@happykoding07)
 *Let's learn, build, and grow together!*
+
+### 👤 Contact
+[Facebook Profile](https://www.facebook.com/tasnim.ahmed.20)
