@@ -18,5 +18,5 @@ Welcome! This repository tracks our progress through the CP Kickstart series. Ea
 ### 🚀 [HappyKoding](https://www.youtube.com/@happykoding07)
 *Let's learn, build, and grow together!*
 
-### 👤 Contact
-[Facebook Profile](https://www.facebook.com/tasnim.ahmed.20)
+### 🤝 Let's Connect
+[[Codeforces](https://codeforces.com/profile/tasnim07)] | [[LinkedIn](https://www.linkedin.com/in/tasnimahmed20/)] | [[Facebook](https://www.facebook.com/tasnim.ahmed.20)]
